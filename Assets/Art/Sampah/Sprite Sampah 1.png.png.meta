@@ -139,7 +139,7 @@ TextureImporter:
         width: 666
         height: 682
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,7 +160,7 @@ TextureImporter:
         width: 748
         height: 600
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,7 +181,7 @@ TextureImporter:
         width: 452
         height: 912
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
         width: 657
         height: 764
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,7 +223,7 @@ TextureImporter:
         width: 756
         height: 723
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,7 +244,7 @@ TextureImporter:
         width: 526
         height: 698
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -265,7 +265,7 @@ TextureImporter:
         width: 476
         height: 731
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -286,7 +286,7 @@ TextureImporter:
         width: 337
         height: 649
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,6 +294,69 @@ TextureImporter:
       bones: []
       spriteID: d12524cfaaeec0945b5c92b2597a2ec1
       internalID: -2019206257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sampah 1.png_9
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1294
+        width: 583
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e7a8f41904e74daac623a7a02132a
+      internalID: -2134946920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sampah 1.png_10
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 2362
+        width: 583
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b1bc128ecd7142a9739c195afac49
+      internalID: -1991155453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sampah 1.png_11
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 332
+        width: 575
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdef6c74131a0349ab8f36c8ab47d6a
+      internalID: -1380171264
       vertices: []
       indices: 
       edges: []
@@ -311,6 +374,8 @@ TextureImporter:
     nameFileIdTable:
       Sprite Sampah 1.png_0: -372164948
       Sprite Sampah 1.png_1: -1034750764
+      Sprite Sampah 1.png_10: -1991155453
+      Sprite Sampah 1.png_11: -1380171264
       Sprite Sampah 1.png_2: -2044214332
       Sprite Sampah 1.png_3: 481024175
       Sprite Sampah 1.png_4: 1247685420
@@ -318,6 +383,7 @@ TextureImporter:
       Sprite Sampah 1.png_6: 309204343
       Sprite Sampah 1.png_7: 1326437607
       Sprite Sampah 1.png_8: -2019206257
+      Sprite Sampah 1.png_9: -2134946920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

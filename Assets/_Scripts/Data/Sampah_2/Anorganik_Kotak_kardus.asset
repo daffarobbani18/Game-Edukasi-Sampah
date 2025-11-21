@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af3f3e5634f624f4fb58b44ec9acaa06, type: 3}
+  m_Name: Anorganik_Kotak_kardus
+  m_EditorClassIdentifier: 
+  namaSampah: Kotak Kardus
+  tipeSampah: 1
+  iconSampah: {fileID: -1047307523, guid: fb1fc08a89bdd4e40ba666f26b37179f, type: 3}
