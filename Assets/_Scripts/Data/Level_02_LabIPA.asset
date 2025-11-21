@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5605dabca29a3dd40961dd136b2b7648, type: 3}
+  m_Name: Level_02_LabIPA
+  m_EditorClassIdentifier: 
+  namaLevel: 'Proyek Lab IPA: Awas Limbah Berbahaya!'
+  deskripsiBriefing: 'Tim, perhatian penuh! Lab IPA sangat berantakan setelah eksperimen
+    besar tadi.
+
+
+    Hati-hati, tantangan kali ini berbeda. Di antara sampah biasa,
+    ada banyak **limbah B3 (Berbahaya & Beracun)** seperti baterai bekas, pecahan
+    bohlam, dan botol bahan kimia.
+
+
+    Jangan sampai salah mengenali mereka, karena
+    bisa berbahaya! Kumpulkan semuanya dengan ekstra teliti dan hati-hati. Selamat
+    bekerja!'
+  batasWaktuDetik: 90
+  targetJumlahSampah: 20
+  daftarSampahLevelIni:
+  - {fileID: 11400000, guid: ea2009ec863711241b519be5145a7cbb, type: 2}
+  - {fileID: 11400000, guid: 647656334d99b0a45a8f491ce2ca9e2f, type: 2}
+  - {fileID: 11400000, guid: b8ab58722d884834f868b09b62fdecce, type: 2}
+  - {fileID: 11400000, guid: 21ca879036eedcf40aca18a623d075a4, type: 2}
+  - {fileID: 11400000, guid: 883d65169b51d6d4da1ac958f268a034, type: 2}
+  - {fileID: 11400000, guid: 1ccdba07698b1cb4fab089d4cab748a2, type: 2}
+  - {fileID: 11400000, guid: 4bd9b8b2f5074d4438c47611057af94b, type: 2}
+  - {fileID: 11400000, guid: b51712d5341f5354a869e2a520a5427b, type: 2}
+  - {fileID: 11400000, guid: 07c0bb5358fbf5043ae005519c06c597, type: 2}
+  - {fileID: 11400000, guid: 4d0d6ec71ddf1ad4b886d6d5034a69ec, type: 2}
+  - {fileID: 11400000, guid: 64cda135eaad60e4b8ce31a230e60624, type: 2}
+  - {fileID: 11400000, guid: d121d663a73b891488f4ae32cdcef8ee, type: 2}
+  - {fileID: 11400000, guid: f32e064c1cfcb3947a4aeb96a2dfb0b1, type: 2}
+  - {fileID: 11400000, guid: ba31aa957d8b992448c63c28f375da2e, type: 2}
+  - {fileID: 11400000, guid: eb8903cd96da5d940a1c1931eabc93e3, type: 2}
+  - {fileID: 11400000, guid: 9735dac209782c443b8725b44ed8d761, type: 2}
+  - {fileID: 11400000, guid: 5904ae5459c1ee9419b6821ad762d0d7, type: 2}
+  - {fileID: 11400000, guid: dc468ec7ce155244d8e64cc05ed41362, type: 2}
+  - {fileID: 11400000, guid: a5e73219da17b5d4a896b30219821611, type: 2}
+  - {fileID: 11400000, guid: 4826498cfb6c8b74aa231f6f665c5719, type: 2}
