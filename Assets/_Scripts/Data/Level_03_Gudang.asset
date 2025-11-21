@@ -12,21 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5605dabca29a3dd40961dd136b2b7648, type: 3}
   m_Name: Level_03_Gudang
   m_EditorClassIdentifier: 
-  namaLevel: 'Proyek Lab IPA: Awas Limbah Berbahaya!'
-  deskripsiBriefing: 'Tim, perhatian penuh! Lab IPA sangat berantakan setelah eksperimen
-    besar tadi.
+  namaLevel: 'Proyek Gudang: Misi Bongkar Tumpukan'
+  deskripsiBriefing: 'Wah, *uhuk*... berdebu sekali! Gudang sekolah ini sudah bertahun-tahun
+    tidak tersentuh.
 
 
-    Hati-hati, tantangan kali ini berbeda. Di antara sampah biasa,
-    ada banyak **limbah B3 (Berbahaya & Beracun)** seperti baterai bekas, pecahan
-    bohlam, dan botol bahan kimia.
+    Lihat tumpukan barang-barang tua itu? Tugas PjBL kalian
+    hari ini adalah "bongkar gudang"!
 
 
-    Jangan sampai salah mengenali mereka, karena
-    bisa berbahaya! Kumpulkan semuanya dengan ekstra teliti dan hati-hati. Selamat
-    bekerja!'
+    Tantangannya adalah **kekacauan**. Di
+    sini, sampah organik yang sudah kering, kardus tua, hingga barang elektronik
+    rusak (B3) semuanya tercampur aduk. Kalian harus jeli memisahkan mana yang masih
+    berguna dan mana yang harus dibuang. Ayo singsingkan lengan baju kalian!'
   batasWaktuDetik: 90
-  targetJumlahSampah: 20
+  targetJumlahSampah: 30
   daftarSampahLevelIni:
   - {fileID: 11400000, guid: ea2009ec863711241b519be5145a7cbb, type: 2}
   - {fileID: 11400000, guid: 647656334d99b0a45a8f491ce2ca9e2f, type: 2}
@@ -48,3 +48,13 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dc468ec7ce155244d8e64cc05ed41362, type: 2}
   - {fileID: 11400000, guid: a5e73219da17b5d4a896b30219821611, type: 2}
   - {fileID: 11400000, guid: 4826498cfb6c8b74aa231f6f665c5719, type: 2}
+  - {fileID: 11400000, guid: 2d2196bc5dde2ad4c9c67ea150275bbe, type: 2}
+  - {fileID: 11400000, guid: 4b54aa7f2e1917b438cba522a962d58a, type: 2}
+  - {fileID: 11400000, guid: 40b16acbf8e9d394181d0c7b1865e4f4, type: 2}
+  - {fileID: 11400000, guid: 12d8f34d024657c47aa3d960baa009c6, type: 2}
+  - {fileID: 11400000, guid: b23cd42cec22008489316a5954e44e94, type: 2}
+  - {fileID: 11400000, guid: b698bfb209e6af44a8783faf57c76482, type: 2}
+  - {fileID: 11400000, guid: dade1cdedc076064b90efcd82622a388, type: 2}
+  - {fileID: 11400000, guid: 883d65169b51d6d4da1ac958f268a034, type: 2}
+  - {fileID: 11400000, guid: 1ccdba07698b1cb4fab089d4cab748a2, type: 2}
+  - {fileID: 11400000, guid: f3a5369367fa18148bfc8f3230bf5048, type: 2}
